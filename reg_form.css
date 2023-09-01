@@ -5,7 +5,7 @@ body{
     box-sizing: border-box;
 }
 .container{
-    margin: auto;
+    margin: 50px auto auto auto;
     width: 50%;
     padding: 16px;
     background-color: white;
